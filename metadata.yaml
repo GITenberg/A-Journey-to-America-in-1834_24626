@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26629'
     url: http://www.gutenberg.org/2009/agents/26629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24626#A-Journey-to-America-in-1834
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-02-15'
 gutenberg_type: Text
